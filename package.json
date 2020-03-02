@@ -1,6 +1,6 @@
 {
   "name": "biguintbe",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Encode / decode unsigned BigInt as big endian",
   "main": "index.js",
   "dependencies": {
